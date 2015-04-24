@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "opengl_es_basics.OpenGLView.render (opengl_es_basics.OpenGLView)() -&gt; ():OpenGLView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Indices">
+            </PersistentString>
+            <PersistentString
+               value = "Indices.count">
+            </PersistentString>
+            <PersistentString
+               value = "VAO">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "opengl_es_basics.OpenGLView.setupVBOs (opengl_es_basics.OpenGLView)() -&gt; ():OpenGLView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Vertices">
+            </PersistentString>
+            <PersistentString
+               value = "Vertices.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "opengl_es_basics.OpenGLView.compileShaders (opengl_es_basics.OpenGLView)() -&gt; ():OpenGLView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "opengl_es_basics.OpenGLView.init (opengl_es_basics.OpenGLView.Type)(coder : ObjectiveC.NSCoder) -&gt; opengl_es_basics.OpenGLView:OpenGLView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Vertices">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
